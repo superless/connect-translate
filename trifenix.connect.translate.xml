@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>trifenix.connect.translate</name>
+    </assembly>
+    <members>
+        <member name="T:trifenix.connect.translate.GoogleTranslator">
+            <summary>
+            Traduce un texto del inglés al español
+            </summary>
+        </member>
+    </members>
+</doc>

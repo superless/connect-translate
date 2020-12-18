@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Net.Http;
-using trifenix.connect.interfaces.upload.translate;
+using trifenix.connect.interfaces.translate;
 
 namespace trifenix.connect.translate
 {
