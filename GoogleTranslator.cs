@@ -5,7 +5,7 @@ using trifenix.connect.interfaces.translate;
 
 namespace trifenix.connect.translate
 {
-
+    /// ### Google Translator
     /// <summary>
     /// Traduce un texto del inglés al español
     /// </summary>
